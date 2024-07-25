@@ -1,0 +1,919 @@
+Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease
+40,M,Atypical Angina,140,289,0,Normal,172,N,0,Up,0
+49,F,Non-Anginal Pain,160,180,0,Normal,156,N,1,Flat,1
+37,M,Atypical Angina,130,283,0,ST,98,N,0,Up,0
+48,F,Asymptomatic,138,214,0,Normal,108,Y,1.5,Flat,1
+54,M,,150,195,0,Normal,122,N,0,Up,0
+39,M,Non-Anginal Pain,120,339,0,Normal,170,N,0,Up,0
+45,F,Atypical Angina,130,237,0,Normal,170,,0,Up,0
+54,M,Atypical Angina,110,208,0,Normal,142,,0,Up,0
+37,M,Asymptomatic,140,207,0,Normal,130,,1.5,Flat,1
+48,F,Atypical Angina,120,284,0,Normal,120,,0,Up,0
+37,F,Non-Anginal Pain,130,211,0,Normal,142,,0,Up,0
+58,M,Atypical Angina,136,164,0,ST,99,,2,Flat,1
+39,M,Atypical Angina,120,204,0,Normal,145,,0,Up,0
+49,M,Asymptomatic,140,234,0,Normal,140,,1,Flat,1
+42,F,Non-Anginal Pain,115,211,0,ST,137,,0,Up,0
+54,F,Atypical Angina,120,273,0,Normal,150,,1.5,Flat,0
+38,M,,110,196,0,Normal,166,,0,Flat,1
+43,F,Atypical Angina,120,201,0,Normal,165,,0,Up,0
+60,M,Asymptomatic,100,248,0,Normal,125,,1,Flat,1
+36,M,Atypical Angina,120,267,0,Normal,160,N,3,Flat,1
+43,F,Typical Angina,100,223,0,Normal,142,N,0,Up,0
+44,M,Atypical Angina,120,184,0,Normal,142,,1,Flat,0
+49,F,Atypical Angina,124,201,0,Normal,164,,0,Up,0
+44,M,Atypical Angina,150,288,0,Normal,150,,3,Flat,1
+40,M,Non-Anginal Pain,130,215,0,Normal,138,,0,Up,0
+36,M,Non-Anginal Pain,130,209,0,Normal,178,,0,Up,0
+53,M,Asymptomatic,124,260,0,ST,112,,3,Flat,0
+52,M,Atypical Angina,120,284,0,Normal,118,,0,Up,0
+53,F,Atypical Angina,113,468,0,Normal,127,,0,Up,0
+51,M,Atypical Angina,125,188,0,Normal,145,,0,Up,0
+53,M,Non-Anginal Pain,145,518,0,Normal,130,,0,Flat,1
+56,M,Non-Anginal Pain,130,167,0,Normal,114,,0,Up,0
+54,M,Asymptomatic,125,224,0,Normal,122,,2,Flat,1
+41,M,Asymptomatic,130,172,0,ST,130,,2,Flat,1
+43,F,Atypical Angina,150,186,0,Normal,154,,0,Up,0
+32,M,Atypical Angina,125,254,0,Normal,155,,0,Up,0
+65,M,Asymptomatic,140,306,1,Normal,87,,1.5,Flat,1
+41,F,Atypical Angina,110,250,0,ST,142,,0,Up,0
+48,F,Atypical Angina,120,177,1,ST,148,,0,Up,0
+48,F,Asymptomatic,150,227,0,Normal,130,,1,Flat,0
+54,F,Atypical Angina,150,230,0,Normal,130,,0,Up,0
+54,F,Non-Anginal Pain,130,294,0,ST,100,,0,Flat,1
+35,M,Atypical Angina,150,264,0,Normal,168,,0,Up,0
+52,M,Non-Anginal Pain,140,259,0,ST,170,,0,Up,0
+43,M,Asymptomatic,120,175,0,Normal,120,,1,Flat,1
+59,M,Non-Anginal Pain,130,318,0,Normal,120,,1,Flat,0
+37,M,Asymptomatic,120,223,0,Normal,168,,0,Up,0
+50,M,Atypical Angina,140,216,0,Normal,170,,0,Up,0
+36,M,Non-Anginal Pain,112,340,0,Normal,184,,1,Flat,0
+41,M,Asymptomatic,110,289,0,Normal,170,,0,Flat,1
+50,M,Asymptomatic,130,233,0,Normal,121,,2,Flat,1
+47,F,Asymptomatic,120,205,0,Normal,98,,2,Flat,1
+45,M,Atypical Angina,140,224,1,Normal,122,,0,Up,0
+41,F,Atypical Angina,130,245,0,Normal,150,,0,Up,0
+52,F,Asymptomatic,130,180,0,Normal,140,,1.5,Flat,0
+51,F,Atypical Angina,160,194,0,Normal,170,,0,Up,0
+31,M,Asymptomatic,120,270,0,Normal,153,,1.5,Flat,1
+58,M,Non-Anginal Pain,130,213,0,ST,140,,0,Flat,1
+54,M,Asymptomatic,150,365,0,ST,134,,1,Up,0
+52,M,Asymptomatic,112,342,0,ST,96,,1,Flat,1
+49,M,Atypical Angina,100,253,0,Normal,174,,0,Up,0
+43,F,Non-Anginal Pain,150,254,0,Normal,175,,0,Up,0
+45,M,Asymptomatic,140,224,0,Normal,144,,0,Up,0
+46,M,Asymptomatic,120,277,0,Normal,125,,1,Flat,1
+50,F,Atypical Angina,110,202,0,Normal,145,,0,Up,0
+37,F,Atypical Angina,120,260,0,Normal,130,,0,Up,0
+45,F,Asymptomatic,132,297,0,Normal,144,,0,Up,0
+32,M,Atypical Angina,110,225,0,Normal,184,,0,Up,0
+52,M,Asymptomatic,160,246,0,ST,82,,4,Flat,1
+44,M,Asymptomatic,150,412,0,Normal,170,,0,Up,0
+57,M,Atypical Angina,140,265,0,ST,145,,1,Flat,1
+44,M,Atypical Angina,130,215,0,Normal,135,,0,Up,0
+52,M,Asymptomatic,120,182,0,Normal,150,,0,Flat,1
+44,F,Asymptomatic,120,218,0,ST,115,,0,Up,0
+55,M,Asymptomatic,140,268,0,Normal,128,,1.5,Flat,1
+46,M,Non-Anginal Pain,150,163,0,Normal,116,,0,Up,0
+32,M,Asymptomatic,118,529,0,Normal,130,,0,Flat,1
+35,F,Asymptomatic,140,167,0,Normal,150,,0,Up,0
+52,M,Atypical Angina,140,100,0,Normal,138,,0,Up,0
+49,M,Asymptomatic,130,206,0,Normal,170,,0,Flat,1
+55,M,Non-Anginal Pain,110,277,0,Normal,160,,0,Up,0
+54,M,Atypical Angina,120,238,0,Normal,154,,0,Up,0
+63,M,Asymptomatic,150,223,0,Normal,115,,0,Flat,1
+52,M,Atypical Angina,160,196,0,Normal,165,,0,Up,0
+56,M,Asymptomatic,150,213,1,Normal,125,,1,Flat,1
+66,M,Asymptomatic,140,139,0,Normal,94,,1,Flat,1
+65,M,Asymptomatic,170,263,1,Normal,112,,2,Flat,1
+53,F,Atypical Angina,140,216,0,Normal,142,,2,Flat,0
+43,M,Typical Angina,120,291,0,ST,155,,0,Flat,1
+55,M,Asymptomatic,140,229,0,Normal,110,,0.5,Flat,0
+49,F,Atypical Angina,110,208,0,Normal,160,,0,Up,0
+39,M,Asymptomatic,130,307,0,Normal,140,,0,Up,0
+52,F,Atypical Angina,120,210,0,Normal,148,,0,Up,0
+48,M,Asymptomatic,160,329,0,Normal,92,,1.5,Flat,1
+39,F,Non-Anginal Pain,110,182,0,ST,180,,0,Up,0
+58,M,Asymptomatic,130,263,0,Normal,140,,2,Flat,1
+43,M,Atypical Angina,142,207,0,Normal,138,,0,Up,0
+39,M,Non-Anginal Pain,160,147,1,Normal,160,,0,Up,0
+56,M,Asymptomatic,120,85,0,Normal,140,,0,Up,0
+41,M,Atypical Angina,125,269,0,Normal,144,,0,Up,0
+65,M,Asymptomatic,130,275,0,ST,115,,1,Flat,1
+51,M,Asymptomatic,130,179,0,Normal,100,,0,Up,0
+40,F,Asymptomatic,150,392,0,Normal,130,,2,Flat,1
+40,M,Asymptomatic,120,466,1,Normal,152,,1,Flat,1
+46,M,Asymptomatic,118,186,0,Normal,124,,0,Flat,1
+57,M,Atypical Angina,140,260,1,Normal,140,,0,Up,0
+48,F,Asymptomatic,120,254,0,ST,110,,0,Up,0
+34,M,Atypical Angina,150,214,0,ST,168,,0,Up,0
+50,M,Asymptomatic,140,129,0,Normal,135,,0,Up,0
+39,M,Atypical Angina,190,241,0,Normal,106,,0,Up,0
+59,F,Atypical Angina,130,188,0,Normal,124,,1,Flat,0
+57,M,Asymptomatic,150,255,0,Normal,92,,3,Flat,1
+47,M,Asymptomatic,140,276,1,Normal,125,,0,Up,0
+38,M,Atypical Angina,140,297,0,Normal,150,,0,Up,0
+49,F,Non-Anginal Pain,130,207,0,ST,135,,0,Up,0
+33,F,Asymptomatic,100,246,0,Normal,150,,1,Flat,1
+38,M,Asymptomatic,120,282,0,Normal,170,,0,Flat,1
+59,F,Asymptomatic,130,338,1,ST,130,,1.5,Flat,1
+35,F,Typical Angina,120,160,0,ST,185,,0,Up,0
+34,M,Typical Angina,140,156,0,Normal,180,,0,Flat,1
+47,F,Non-Anginal Pain,135,248,1,Normal,170,,0,Flat,1
+52,F,Non-Anginal Pain,125,272,0,Normal,139,,0,Up,0
+46,M,Asymptomatic,110,240,0,ST,140,,0,Up,0
+58,F,Atypical Angina,180,393,0,Normal,110,,1,Flat,1
+58,M,Atypical Angina,130,230,0,Normal,150,,0,Up,0
+54,M,Atypical Angina,120,246,0,Normal,110,,0,Up,0
+34,F,Atypical Angina,130,161,0,Normal,190,,0,Up,0
+48,F,Asymptomatic,108,163,0,Normal,175,,2,Up,0
+54,F,Atypical Angina,120,230,1,Normal,140,,0,Up,0
+42,M,Non-Anginal Pain,120,228,0,Normal,152,,1.5,Flat,0
+38,M,Non-Anginal Pain,145,292,0,Normal,130,,0,Up,0
+46,M,Asymptomatic,110,202,0,Normal,150,,0,Flat,1
+56,M,Asymptomatic,170,388,0,ST,122,,2,Flat,1
+56,M,Asymptomatic,150,230,0,ST,124,,1.5,Flat,1
+61,F,Asymptomatic,130,294,0,ST,120,,1,Flat,0
+49,M,Non-Anginal Pain,115,265,0,Normal,175,,0,Flat,1
+43,F,Atypical Angina,120,215,0,ST,175,,0,Up,0
+39,M,Atypical Angina,120,241,0,ST,146,,2,Up,0
+54,M,Asymptomatic,140,166,0,Normal,118,,0,Flat,1
+43,M,Asymptomatic,150,247,0,Normal,130,,2,Flat,1
+52,M,Asymptomatic,160,331,0,Normal,94,,2.5,Flat,1
+50,M,Asymptomatic,140,341,0,ST,125,,2.5,Flat,1
+47,M,Asymptomatic,160,291,0,ST,158,,3,Flat,1
+53,M,Asymptomatic,140,243,0,Normal,155,,0,Up,0
+56,F,Atypical Angina,120,,0,Normal,150,,1,Flat,1
+39,M,Asymptomatic,110,,0,Normal,132,,0,Up,0
+42,M,Atypical Angina,120,,0,Normal,155,,0,Up,0
+43,F,Atypical Angina,120,249,0,ST,176,,0,Up,0
+50,M,Atypical Angina,120,168,0,Normal,160,,0,Up,0
+54,M,Asymptomatic,130,603,1,Normal,125,,1,Flat,1
+39,M,Atypical Angina,130,215,0,Normal,120,,0,Up,0
+48,M,Atypical Angina,100,159,0,Normal,100,,0,Up,0
+40,M,Atypical Angina,130,275,0,Normal,150,,0,Up,0
+55,M,Asymptomatic,120,270,0,Normal,140,,0,Up,0
+41,M,Atypical Angina,120,291,0,ST,160,,0,Up,0
+56,M,Asymptomatic,155,342,1,Normal,150,,3,Flat,1
+38,M,Asymptomatic,110,190,0,Normal,150,,1,Flat,1
+49,M,Asymptomatic,140,185,0,Normal,130,,0,Up,0
+44,M,Asymptomatic,130,290,0,Normal,100,,2,Flat,1
+54,M,Atypical Angina,160,195,0,ST,130,,1,Up,0
+59,M,Asymptomatic,140,264,1,LVH,119,,0,Flat,1
+49,M,Asymptomatic,128,212,0,Normal,96,,0,Flat,1
+47,M,Atypical Angina,160,263,0,Normal,174,,0,Up,0
+42,M,Atypical Angina,120,196,0,Normal,150,,0,Up,0
+52,F,Atypical Angina,140,225,0,Normal,140,,0,Up,0
+46,M,Typical Angina,140,272,1,Normal,175,,2,Flat,1
+50,M,Asymptomatic,140,231,0,ST,140,,5,Flat,1
+48,M,Atypical Angina,140,238,0,Normal,118,,0,Up,0
+58,M,Asymptomatic,135,222,0,Normal,100,,0,Up,0
+58,M,Non-Anginal Pain,140,179,0,Normal,160,,0,Up,0
+29,M,Atypical Angina,120,243,0,Normal,160,,0,Up,0
+40,M,Non-Anginal Pain,140,235,0,Normal,188,,0,Up,0
+53,M,Atypical Angina,140,320,0,Normal,162,,0,Up,0
+49,M,Non-Anginal Pain,140,187,0,Normal,172,,0,Up,0
+52,M,Asymptomatic,140,266,0,Normal,134,,2,Flat,1
+43,M,Asymptomatic,140,288,0,Normal,135,,2,Flat,1
+54,M,Asymptomatic,140,216,0,Normal,105,,1.5,Flat,1
+59,M,Atypical Angina,140,287,0,Normal,150,,0,Up,0
+37,M,Non-Anginal Pain,130,194,0,Normal,150,,0,Up,0
+46,F,Asymptomatic,130,238,0,Normal,90,,0,Up,0
+52,M,Asymptomatic,130,225,0,Normal,120,,2,Flat,1
+51,M,Atypical Angina,130,224,0,Normal,150,,0,Up,0
+52,M,Asymptomatic,140,404,0,Normal,124,,2,Flat,1
+46,M,Asymptomatic,110,238,0,ST,140,,1,Flat,0
+54,F,Atypical Angina,160,312,0,Normal,130,,0,Up,0
+58,M,Non-Anginal Pain,160,211,1,ST,92,,0,Flat,1
+58,M,Atypical Angina,130,251,0,Normal,110,,0,Up,0
+41,M,Asymptomatic,120,237,1,Normal,138,,1,Flat,1
+50,F,Asymptomatic,120,328,0,Normal,110,,1,Flat,0
+53,M,Asymptomatic,180,285,0,ST,120,,1.5,Flat,1
+46,M,Asymptomatic,180,280,0,ST,120,,0,Up,0
+50,M,Atypical Angina,170,209,0,ST,116,,0,Up,0
+48,M,Atypical Angina,130,245,0,Normal,160,,0,Up,0
+45,M,Non-Anginal Pain,135,192,0,Normal,110,,0,Up,0
+41,F,Atypical Angina,125,184,0,Normal,180,,0,Up,0
+62,F,Typical Angina,160,193,0,Normal,116,,0,Up,0
+49,M,Asymptomatic,120,297,0,Normal,132,,1,Flat,0
+42,M,Atypical Angina,150,268,0,Normal,136,,0,Up,0
+53,M,Asymptomatic,120,246,0,Normal,116,,0,Flat,1
+57,F,Typical Angina,130,308,0,Normal,98,,1,Flat,0
+47,M,Typical Angina,110,249,0,Normal,150,,0,Up,0
+46,M,Non-Anginal Pain,120,230,0,Normal,150,,0,Up,0
+42,M,Non-Anginal Pain,160,147,0,Normal,146,,0,Up,0
+31,F,Atypical Angina,100,219,0,ST,150,,0,Up,0
+56,M,Atypical Angina,130,184,0,Normal,100,,0,Up,0
+50,M,Asymptomatic,150,215,0,Normal,140,,0,Up,0
+35,M,Atypical Angina,120,308,0,LVH,180,,0,Up,0
+35,M,Atypical Angina,110,257,0,Normal,140,,0,Flat,1
+28,M,Atypical Angina,130,132,0,LVH,185,,0,Up,0
+54,M,Asymptomatic,125,216,0,Normal,140,,0,Flat,1
+48,M,Asymptomatic,106,263,1,Normal,110,,0,Flat,1
+50,F,Non-Anginal Pain,140,288,0,Normal,140,,0,Flat,1
+56,M,Non-Anginal Pain,130,276,0,Normal,128,,1,Up,0
+56,F,Non-Anginal Pain,130,219,0,ST,164,,0,Up,0
+47,M,Asymptomatic,150,226,0,Normal,98,,1.5,Flat,1
+30,F,Typical Angina,170,237,0,ST,170,,0,Up,0
+39,M,Asymptomatic,110,280,0,Normal,150,,0,Flat,1
+54,M,Non-Anginal Pain,120,217,0,Normal,137,,0,Up,0
+55,M,Atypical Angina,140,196,0,Normal,150,,0,Up,0
+29,M,Atypical Angina,140,263,0,Normal,170,,0,Up,0
+46,M,Asymptomatic,130,222,0,Normal,112,,0,Flat,1
+51,F,Asymptomatic,160,303,0,Normal,150,,1,Flat,1
+48,F,Non-Anginal Pain,120,195,0,Normal,125,,0,Up,0
+33,M,Non-Anginal Pain,120,298,0,Normal,185,,0,Up,0
+55,M,Atypical Angina,120,256,1,Normal,137,,0,Up,0
+50,M,Asymptomatic,145,264,0,Normal,150,,0,Flat,1
+53,M,Non-Anginal Pain,120,195,0,Normal,140,,0,Up,0
+38,M,Asymptomatic,92,117,0,Normal,134,,2.5,Flat,1
+41,M,Atypical Angina,120,295,0,Normal,170,,0,Up,0
+37,F,Asymptomatic,130,173,0,ST,184,,0,Up,0
+37,M,Asymptomatic,130,315,0,Normal,158,,0,Up,0
+40,M,Non-Anginal Pain,130,281,0,Normal,167,,0,Up,0
+38,F,Atypical Angina,120,275,0,Normal,129,,0,Up,0
+41,M,Asymptomatic,112,250,0,Normal,142,,0,Up,0
+54,F,Atypical Angina,140,309,0,ST,140,,0,Up,0
+39,M,Atypical Angina,120,200,0,Normal,160,,1,Flat,0
+41,M,Asymptomatic,120,336,0,Normal,118,,3,Flat,1
+55,M,Typical Angina,140,295,0,Normal,136,,0,Flat,1
+48,M,Asymptomatic,160,355,0,Normal,99,,2,Flat,1
+48,M,Asymptomatic,160,193,0,Normal,102,,3,Flat,1
+55,M,Atypical Angina,145,326,0,Normal,155,,0,Up,0
+54,M,Asymptomatic,200,198,0,Normal,142,,2,Flat,1
+55,M,Atypical Angina,160,292,1,Normal,143,,2,Flat,1
+43,F,Atypical Angina,120,266,0,Normal,118,,0,Up,0
+48,M,Asymptomatic,160,268,0,Normal,103,,1,Flat,1
+54,M,Typical Angina,120,171,0,Normal,137,,2,Up,0
+54,M,Non-Anginal Pain,120,237,0,Normal,150,,1.5,Flat,1
+48,M,Asymptomatic,122,275,1,ST,150,,2,Down,1
+45,M,Asymptomatic,130,219,0,ST,130,,1,Flat,1
+49,M,Asymptomatic,130,341,0,Normal,120,,1,Flat,1
+44,M,Asymptomatic,135,491,0,Normal,135,,0,Flat,1
+48,M,Asymptomatic,120,260,0,Normal,115,,2,Flat,1
+61,M,Asymptomatic,125,292,0,ST,115,,0,Up,0
+62,M,Atypical Angina,140,271,0,Normal,152,,1,Up,0
+55,M,Asymptomatic,145,248,0,Normal,96,,2,Flat,1
+53,F,Non-Anginal Pain,120,274,0,Normal,130,,0,Up,0
+55,F,Atypical Angina,130,394,0,LVH,150,,0,Up,0
+36,M,Non-Anginal Pain,150,160,0,Normal,172,,0,Up,0
+51,F,Non-Anginal Pain,150,200,0,Normal,120,,0.5,Up,0
+55,F,Atypical Angina,122,320,0,Normal,155,,0,Up,0
+46,M,Atypical Angina,140,275,0,Normal,165,,0,Up,0
+54,F,Atypical Angina,120,221,0,Normal,138,,1,Up,0
+46,M,Asymptomatic,120,231,0,Normal,115,,0,Flat,1
+59,M,Asymptomatic,130,126,0,Normal,125,,0,Flat,1
+47,M,Non-Anginal Pain,140,193,0,Normal,145,,1,Flat,1
+54,M,Atypical Angina,160,305,0,Normal,175,,0,Up,0
+52,M,Asymptomatic,130,298,0,Normal,110,,1,Flat,1
+34,M,Atypical Angina,98,220,0,Normal,150,,0,Up,0
+54,M,Asymptomatic,130,242,0,Normal,91,,1,Flat,1
+47,F,Non-Anginal Pain,130,235,0,Normal,145,,2,Flat,0
+45,M,Asymptomatic,120,225,0,Normal,140,,0,Up,0
+32,F,Atypical Angina,105,198,0,Normal,165,,0,Up,0
+55,M,Asymptomatic,140,201,0,Normal,130,,3,Flat,1
+55,M,Non-Anginal Pain,120,220,0,LVH,134,,0,Up,0
+45,F,Atypical Angina,180,295,0,Normal,180,,0,Up,0
+59,M,Non-Anginal Pain,180,213,0,Normal,100,,0,Up,0
+51,M,Non-Anginal Pain,135,160,0,Normal,150,,2,Flat,1
+52,M,Asymptomatic,170,223,0,Normal,126,,1.5,Flat,1
+57,F,Asymptomatic,180,347,0,ST,126,,0.8,Flat,0
+54,F,Atypical Angina,130,253,0,ST,155,,0,Up,0
+60,M,Non-Anginal Pain,120,246,0,LVH,135,,0,Up,0
+49,M,Asymptomatic,150,222,0,Normal,122,,2,Flat,1
+51,F,Non-Anginal Pain,130,220,0,Normal,160,,2,Up,0
+55,F,Atypical Angina,110,344,0,ST,160,,0,Up,0
+42,M,Asymptomatic,140,358,0,Normal,170,,0,Up,0
+51,F,Non-Anginal Pain,110,190,0,Normal,120,,0,Up,0
+59,M,Asymptomatic,140,169,0,Normal,140,,0,Up,0
+53,M,Atypical Angina,120,181,0,Normal,132,,0,Up,0
+48,F,Atypical Angina,133,308,0,ST,156,,2,Up,0
+36,M,Atypical Angina,120,166,0,Normal,180,,0,Up,0
+48,M,Non-Anginal Pain,110,211,0,Normal,138,,0,Up,0
+47,F,Atypical Angina,140,257,0,Normal,135,,1,Up,0
+53,M,Asymptomatic,130,182,0,Normal,148,,0,Up,0
+65,M,Asymptomatic,115,0,0,Normal,93,,0,Flat,1
+32,M,Typical Angina,95,0,1,Normal,127,,0.7,Up,1
+61,M,Asymptomatic,105,0,1,Normal,110,,1.5,Up,1
+50,M,Asymptomatic,145,0,1,Normal,139,,0.7,Flat,1
+57,M,Asymptomatic,110,0,1,ST,131,,1.4,Up,1
+51,M,Asymptomatic,110,0,1,Normal,92,,0,Flat,1
+47,M,Asymptomatic,110,0,1,ST,149,,2.1,Up,1
+60,M,Asymptomatic,160,0,1,Normal,149,,0.4,Flat,1
+55,M,Atypical Angina,140,0,0,ST,150,,0.2,Up,0
+53,M,Asymptomatic,125,0,1,Normal,120,,1.5,Up,1
+62,F,Asymptomatic,120,0,1,ST,123,,1.7,Down,1
+51,M,Asymptomatic,95,0,1,Normal,126,,2.2,Flat,1
+51,F,Asymptomatic,120,0,1,Normal,127,,1.5,Up,1
+55,M,Asymptomatic,115,0,1,Normal,155,,0.1,Flat,1
+53,M,Atypical Angina,130,0,0,ST,120,,0.7,Down,0
+58,M,Asymptomatic,115,0,1,Normal,138,,0.5,Up,1
+57,M,Asymptomatic,95,0,1,Normal,182,,0.7,Down,1
+65,M,Asymptomatic,155,0,0,Normal,154,,1,Up,0
+60,M,Asymptomatic,125,0,1,Normal,110,,0.1,Up,1
+41,M,Asymptomatic,125,0,1,Normal,176,,1.6,Up,1
+34,M,Asymptomatic,115,0,1,Normal,154,,0.2,Up,1
+53,M,Asymptomatic,80,0,0,Normal,141,,2,Down,0
+74,M,Atypical Angina,145,0,1,ST,123,,1.3,Up,1
+57,M,Non-Anginal Pain,105,0,1,Normal,148,,0.3,Flat,1
+56,M,Asymptomatic,140,0,1,Normal,121,,1.8,Up,1
+61,M,Asymptomatic,130,0,1,Normal,77,,2.5,Flat,1
+68,M,Asymptomatic,145,0,1,Normal,136,,1.8,Up,1
+59,M,Non-Anginal Pain,125,0,1,Normal,175,,2.6,Flat,1
+63,M,Asymptomatic,100,0,1,Normal,109,,-0.9,Flat,1
+38,F,Asymptomatic,105,0,1,Normal,166,,2.8,Up,1
+62,M,Asymptomatic,115,0,1,Normal,128,,2.5,Down,1
+46,M,Asymptomatic,100,0,1,ST,133,,-2.6,Flat,1
+42,M,Asymptomatic,105,0,1,Normal,128,,-1.5,Down,1
+45,M,Non-Anginal Pain,110,0,0,Normal,138,,-0.1,Up,0
+59,M,Asymptomatic,125,0,1,Normal,119,,0.9,Up,1
+52,M,Asymptomatic,95,0,1,Normal,82,,0.8,Flat,1
+60,M,Asymptomatic,130,0,1,ST,130,,1.1,Down,1
+60,M,Non-Anginal Pain,115,0,1,Normal,143,,2.4,Up,1
+56,M,Asymptomatic,115,0,1,ST,82,,-1,Up,1
+38,M,Non-Anginal Pain,100,0,0,Normal,179,,-1.1,Up,0
+40,M,Asymptomatic,95,0,1,ST,144,,0,Up,1
+51,M,Asymptomatic,130,0,1,Normal,170,,-0.7,Up,1
+62,M,Typical Angina,120,0,1,LVH,134,,-0.8,Flat,1
+72,M,Non-Anginal Pain,160,0,0,LVH,114,,1.6,Flat,0
+63,M,Asymptomatic,150,0,1,ST,154,,3.7,Up,1
+63,M,Asymptomatic,140,0,1,LVH,149,,2,Up,1
+64,F,Asymptomatic,95,0,1,Normal,145,,1.1,Down,1
+43,M,Asymptomatic,100,0,1,Normal,122,,1.5,Down,1
+64,M,Asymptomatic,110,0,1,Normal,114,,1.3,Down,1
+61,M,Asymptomatic,110,0,1,Normal,113,,1.4,Flat,1
+52,M,Asymptomatic,130,0,1,Normal,120,,0,Flat,1
+51,M,Asymptomatic,120,0,1,Normal,104,,0,Flat,1
+69,M,Asymptomatic,135,0,0,Normal,130,,0,Flat,1
+59,M,Asymptomatic,120,0,0,Normal,115,,0,Flat,1
+48,M,Asymptomatic,115,0,1,Normal,128,,0,Flat,1
+69,M,Asymptomatic,137,0,0,ST,104,,1.6,Flat,1
+36,M,Asymptomatic,110,0,1,Normal,125,,1,Flat,1
+53,M,Asymptomatic,120,0,1,Normal,120,,0,Flat,1
+43,M,Asymptomatic,140,0,0,ST,140,,0.5,Up,1
+56,M,Asymptomatic,120,0,0,ST,100,,-1,Down,1
+58,M,Asymptomatic,130,0,0,ST,100,,1,Flat,1
+55,M,Asymptomatic,120,0,0,ST,92,,0.3,Up,1
+67,M,Typical Angina,145,0,0,LVH,125,,0,Flat,1
+46,M,Asymptomatic,115,0,0,Normal,113,,1.5,Flat,1
+53,M,Atypical Angina,120,0,0,Normal,95,,0,Flat,1
+38,M,Non-Anginal Pain,115,0,0,Normal,128,,0,Flat,1
+53,M,Non-Anginal Pain,105,0,0,Normal,115,,0,Flat,1
+62,M,Non-Anginal Pain,160,0,0,Normal,72,,0,Flat,1
+47,M,Asymptomatic,160,0,0,Normal,124,,0,Flat,1
+56,M,Non-Anginal Pain,155,0,0,ST,99,,0,Flat,1
+56,M,Asymptomatic,120,0,0,ST,148,,0,Flat,1
+56,M,Non-Anginal Pain,120,0,0,Normal,97,,0,Flat,0
+64,F,Asymptomatic,200,0,0,Normal,140,,1,Flat,1
+61,M,Asymptomatic,150,0,0,Normal,117,,2,Flat,1
+68,M,Asymptomatic,135,0,0,ST,120,,0,Up,1
+57,M,Asymptomatic,140,0,0,Normal,120,,2,Flat,1
+63,M,Asymptomatic,150,0,0,Normal,86,,2,Flat,1
+60,M,Asymptomatic,135,0,0,Normal,63,,0.5,Up,1
+66,M,Asymptomatic,150,0,0,Normal,108,,2,Flat,1
+63,M,Asymptomatic,185,0,0,Normal,98,,0,Up,1
+59,M,Asymptomatic,135,0,0,Normal,115,,1,Flat,1
+61,M,Asymptomatic,125,0,0,Normal,105,,0,Down,1
+73,F,Non-Anginal Pain,160,0,0,ST,121,,0,Up,1
+47,M,Non-Anginal Pain,155,0,0,Normal,118,,1,Flat,1
+65,M,Asymptomatic,160,0,1,ST,122,,1.2,Flat,1
+70,M,Asymptomatic,140,0,1,Normal,157,,2,Flat,1
+50,M,Asymptomatic,120,0,0,ST,156,,0,Up,1
+60,M,Asymptomatic,160,0,0,ST,99,,0.5,Flat,1
+50,M,Asymptomatic,115,0,0,Normal,120,,0.5,Flat,1
+43,M,Asymptomatic,115,0,0,Normal,145,,2,Flat,1
+38,F,Asymptomatic,110,0,0,Normal,156,,0,Flat,1
+54,M,Asymptomatic,120,0,0,Normal,155,,0,Flat,1
+61,M,Asymptomatic,150,0,0,Normal,105,,0,Flat,1
+42,M,Asymptomatic,145,0,0,Normal,99,,0,Flat,1
+53,M,Asymptomatic,130,0,0,LVH,135,,1,Flat,1
+55,M,Asymptomatic,140,0,0,Normal,83,,0,Flat,1
+61,M,Asymptomatic,160,0,1,ST,145,,1,Flat,1
+51,M,Asymptomatic,140,0,0,Normal,60,,0,Flat,1
+70,M,Asymptomatic,115,0,0,ST,92,,0,Flat,1
+61,M,Asymptomatic,130,0,0,LVH,115,,0,Flat,1
+38,M,Asymptomatic,150,0,1,Normal,120,,0.7,Flat,1
+57,M,Asymptomatic,160,0,1,Normal,98,,2,Flat,1
+38,M,Asymptomatic,135,0,1,Normal,150,,0,Flat,1
+62,F,Typical Angina,140,0,1,Normal,143,,0,Flat,1
+58,M,Asymptomatic,170,0,1,ST,105,,0,Flat,1
+52,M,Asymptomatic,165,0,1,Normal,122,,1,Up,1
+61,M,Non-Anginal Pain,200,0,1,ST,70,,0,Flat,1
+50,F,Asymptomatic,160,0,1,Normal,110,,0,Flat,1
+51,M,Asymptomatic,130,0,1,ST,163,,0,Flat,1
+65,M,Asymptomatic,145,0,1,ST,67,,0.7,Flat,1
+52,M,Asymptomatic,135,0,1,Normal,128,,2,Flat,1
+47,M,Non-Anginal Pain,110,0,1,Normal,120,,0,Flat,1
+35,M,Asymptomatic,120,0,1,Normal,130,,1.2,Flat,1
+57,M,Asymptomatic,140,0,1,Normal,100,,0,Flat,1
+62,M,Asymptomatic,115,0,1,Normal,72,,-0.5,Flat,1
+59,M,Asymptomatic,110,0,1,Normal,94,,0,Flat,1
+53,M,Non-Anginal Pain,160,0,1,LVH,122,,0,Flat,1
+62,M,Asymptomatic,150,0,1,ST,78,,2,Flat,1
+54,M,Asymptomatic,180,0,1,Normal,150,,1.5,Flat,1
+56,M,Asymptomatic,125,0,1,Normal,103,,1,Flat,1
+56,M,Non-Anginal Pain,125,0,1,Normal,98,,-2,Flat,1
+54,M,Asymptomatic,130,0,1,Normal,110,,3,Flat,1
+66,F,Asymptomatic,155,0,1,Normal,90,,0,Flat,1
+63,M,Asymptomatic,140,260,0,ST,112,,3,Flat,1
+44,M,Asymptomatic,130,209,0,ST,127,,0,Up,0
+60,M,Asymptomatic,132,218,0,ST,140,,1.5,Down,1
+55,M,Asymptomatic,142,228,0,ST,149,,2.5,Up,1
+66,M,Non-Anginal Pain,110,213,1,LVH,99,,1.3,Flat,0
+66,M,Non-Anginal Pain,120,0,0,ST,120,,-0.5,Up,0
+65,M,Asymptomatic,150,236,1,ST,105,,0,Flat,1
+60,M,Non-Anginal Pain,180,0,0,ST,140,,1.5,Flat,0
+60,M,Non-Anginal Pain,120,0,1,Normal,141,,2,Up,1
+60,M,Atypical Angina,160,267,1,ST,157,,0.5,Flat,1
+56,M,Atypical Angina,126,166,0,ST,140,,0,Up,0
+59,M,Asymptomatic,140,0,0,ST,117,,1,Flat,1
+62,M,Asymptomatic,110,0,0,Normal,120,,0.5,Flat,1
+63,M,Non-Anginal Pain,133,0,0,LVH,120,,1,Flat,1
+57,M,Asymptomatic,128,0,1,ST,148,,1,Flat,1
+62,M,Asymptomatic,120,220,0,ST,86,,0,Up,0
+63,M,Asymptomatic,170,177,0,Normal,84,,2.5,Down,1
+46,M,Asymptomatic,110,236,0,Normal,125,,2,Flat,1
+63,M,Asymptomatic,126,0,0,ST,120,,1.5,Down,0
+60,M,Asymptomatic,152,0,0,ST,118,,0,Up,0
+58,M,Asymptomatic,116,0,0,Normal,124,,1,Up,1
+64,M,Asymptomatic,120,0,1,ST,106,,2,Flat,1
+63,M,Non-Anginal Pain,130,0,0,ST,111,,0,Flat,1
+74,M,Non-Anginal Pain,138,0,0,Normal,116,,0.2,Up,0
+52,M,Non-Anginal Pain,128,0,0,ST,180,,3,Up,1
+69,M,Asymptomatic,130,0,1,ST,129,,1,Flat,1
+51,M,Asymptomatic,128,0,1,ST,125,,1.2,Flat,1
+60,M,Asymptomatic,130,186,1,ST,140,,0.5,Flat,1
+56,M,Asymptomatic,120,100,0,Normal,120,,1.5,Flat,1
+55,M,Non-Anginal Pain,136,228,0,ST,124,,1.6,Flat,1
+54,M,Asymptomatic,130,0,0,ST,117,,1.4,Flat,1
+77,M,Asymptomatic,124,171,0,ST,110,,2,Up,1
+63,M,Asymptomatic,160,230,1,Normal,105,,1,Flat,1
+55,M,Non-Anginal Pain,0,0,0,Normal,155,,1.5,Flat,1
+52,M,Non-Anginal Pain,122,0,0,Normal,110,,2,Down,1
+64,M,Asymptomatic,144,0,0,ST,122,,1,Flat,1
+60,M,Asymptomatic,140,281,0,ST,118,,1.5,Flat,1
+60,M,Asymptomatic,120,0,0,Normal,133,,2,Up,0
+58,M,Asymptomatic,136,203,1,Normal,123,,1.2,Flat,1
+59,M,Asymptomatic,154,0,0,ST,131,,1.5,Up,0
+61,M,Non-Anginal Pain,120,0,0,Normal,80,,0,Flat,1
+40,M,Asymptomatic,125,0,1,Normal,165,,0,Flat,1
+61,M,Asymptomatic,134,0,1,ST,86,,1.5,Flat,1
+41,M,Asymptomatic,104,0,0,ST,111,,0,Up,0
+57,M,Asymptomatic,139,277,1,ST,118,,1.9,Flat,1
+63,M,Asymptomatic,136,0,0,Normal,84,,0,Flat,1
+59,M,Asymptomatic,122,233,0,Normal,117,,1.3,Down,1
+51,M,Asymptomatic,128,0,0,Normal,107,,0,Up,0
+59,M,Non-Anginal Pain,131,0,0,Normal,128,,2,Down,1
+42,M,Non-Anginal Pain,134,240,0,Normal,160,,0,Up,0
+55,M,Non-Anginal Pain,120,0,0,ST,125,,2.5,Flat,1
+63,F,Atypical Angina,132,0,0,Normal,130,,0.1,Up,0
+62,M,Asymptomatic,152,153,0,ST,97,,1.6,Up,1
+56,M,Atypical Angina,124,224,1,Normal,161,,2,Flat,0
+53,M,Asymptomatic,126,0,0,Normal,106,,0,Flat,1
+68,M,Asymptomatic,138,0,0,Normal,130,,3,Flat,1
+53,M,Asymptomatic,154,0,1,ST,140,,1.5,Flat,1
+60,M,Non-Anginal Pain,141,316,1,ST,122,,1.7,Flat,1
+62,M,Atypical Angina,131,0,0,Normal,130,,0.1,Up,0
+59,M,Asymptomatic,178,0,1,LVH,120,,0,Flat,1
+51,M,Asymptomatic,132,218,1,LVH,139,,0.1,Up,0
+61,M,Asymptomatic,110,0,1,Normal,108,,2,Down,1
+57,M,Asymptomatic,130,311,1,ST,148,,2,Flat,1
+56,M,Non-Anginal Pain,170,0,0,LVH,123,,2.5,Flat,1
+58,M,Atypical Angina,126,0,1,Normal,110,,2,Flat,1
+69,M,Non-Anginal Pain,140,0,1,ST,118,,2.5,Down,1
+67,M,Typical Angina,142,270,1,Normal,125,,2.5,Up,1
+58,M,Asymptomatic,120,0,0,LVH,106,,1.5,Down,1
+65,M,Asymptomatic,134,0,0,Normal,112,,1.1,Flat,1
+63,M,Atypical Angina,139,217,1,ST,128,,1.2,Flat,1
+55,M,Atypical Angina,110,214,1,ST,180,,0.4,Up,0
+57,M,Asymptomatic,140,214,0,ST,144,,2,Flat,1
+65,M,Typical Angina,140,252,0,Normal,135,,0.3,Up,0
+54,M,Asymptomatic,136,220,0,Normal,140,,3,Flat,1
+72,M,Non-Anginal Pain,120,214,0,Normal,102,,1,Flat,1
+75,M,Asymptomatic,170,203,1,ST,108,,0,Flat,1
+49,M,Typical Angina,130,0,0,ST,145,,3,Flat,1
+51,M,Non-Anginal Pain,137,339,0,Normal,127,,1.7,Flat,1
+60,M,Asymptomatic,142,216,0,Normal,110,,2.5,Flat,1
+64,F,Asymptomatic,142,276,0,Normal,140,,1,Flat,1
+58,M,Asymptomatic,132,458,1,Normal,69,,1,Down,0
+61,M,Asymptomatic,146,241,0,Normal,148,,3,Down,1
+67,M,Asymptomatic,160,384,1,ST,130,,0,Flat,1
+62,M,Asymptomatic,135,297,0,Normal,130,,1,Flat,1
+65,M,Asymptomatic,136,248,0,Normal,140,,4,Down,1
+63,M,Asymptomatic,130,308,0,Normal,138,,2,Flat,1
+69,M,Asymptomatic,140,208,0,ST,140,,2,Flat,1
+51,M,Asymptomatic,132,227,1,ST,138,,0.2,Up,0
+62,M,Asymptomatic,158,210,1,Normal,112,,3,Down,1
+55,M,Non-Anginal Pain,136,245,1,ST,131,,1.2,Flat,1
+75,M,Asymptomatic,136,225,0,Normal,112,,3,Flat,1
+40,M,Non-Anginal Pain,106,240,0,Normal,80,,0,Up,0
+67,M,Asymptomatic,120,0,1,Normal,150,,1.5,Down,1
+58,M,Asymptomatic,110,198,0,Normal,110,,0,Flat,1
+60,M,Asymptomatic,136,195,0,Normal,126,,0.3,Up,0
+63,M,Asymptomatic,160,267,1,ST,88,,2,Flat,1
+35,M,Non-Anginal Pain,123,161,0,ST,153,,-0.1,Up,0
+62,M,Typical Angina,112,258,0,ST,150,,1.3,Flat,1
+43,M,Asymptomatic,122,0,0,Normal,120,,0.5,Up,1
+63,M,Non-Anginal Pain,130,0,1,ST,160,,3,Flat,0
+68,M,Non-Anginal Pain,150,195,1,Normal,132,,0,Flat,1
+65,M,Asymptomatic,150,235,0,Normal,120,,1.5,Flat,1
+48,M,Non-Anginal Pain,102,0,1,ST,110,,1,Down,1
+63,M,Asymptomatic,96,305,0,ST,121,,1,Up,1
+64,M,Asymptomatic,130,223,0,ST,128,,0.5,Flat,0
+61,M,Asymptomatic,120,282,0,ST,135,,4,Down,1
+50,M,Asymptomatic,144,349,0,LVH,120,,1,Up,1
+59,M,Asymptomatic,124,160,0,Normal,117,,1,Flat,1
+55,M,Asymptomatic,150,160,0,ST,150,,0,Up,0
+45,M,Non-Anginal Pain,130,236,0,Normal,144,,0.1,Up,0
+65,M,Asymptomatic,144,312,0,LVH,113,,1.7,Flat,1
+61,M,Atypical Angina,139,283,0,Normal,135,,0.3,Up,0
+49,M,Non-Anginal Pain,131,142,0,Normal,127,,1.5,Flat,1
+72,M,Asymptomatic,143,211,0,Normal,109,,1.4,Flat,1
+50,M,Asymptomatic,133,218,0,Normal,128,,1.1,Flat,1
+64,M,Asymptomatic,143,306,1,ST,115,,1.8,Flat,1
+55,M,Asymptomatic,116,186,1,ST,102,,0,Flat,1
+63,M,Asymptomatic,110,252,0,ST,140,,2,Flat,1
+59,M,Asymptomatic,125,222,0,Normal,135,,2.5,Down,1
+56,M,Asymptomatic,130,0,0,LVH,122,,1,Flat,1
+62,M,Non-Anginal Pain,133,0,1,ST,119,,1.2,Flat,1
+74,M,Asymptomatic,150,258,1,ST,130,,4,Down,1
+54,M,Asymptomatic,130,202,1,Normal,112,,2,Flat,1
+57,M,Asymptomatic,110,197,0,LVH,100,,0,Up,0
+62,M,Non-Anginal Pain,138,204,0,ST,122,,1.2,Flat,1
+76,M,Non-Anginal Pain,104,113,0,LVH,120,,3.5,Down,1
+54,F,Asymptomatic,138,274,0,Normal,105,,1.5,Flat,1
+70,M,Asymptomatic,170,192,0,ST,129,,3,Down,1
+61,F,Atypical Angina,140,298,1,Normal,120,,0,Up,0
+48,M,Asymptomatic,132,272,0,ST,139,,0.2,Up,0
+48,M,Non-Anginal Pain,132,220,1,ST,162,,0,Flat,1
+61,M,Typical Angina,142,200,1,ST,100,,1.5,Down,1
+66,M,Asymptomatic,112,261,0,Normal,140,,1.5,Up,1
+68,M,Typical Angina,139,181,1,ST,135,,0.2,Up,0
+55,M,Asymptomatic,172,260,0,Normal,73,,2,Flat,1
+62,M,Non-Anginal Pain,120,220,0,LVH,86,,0,Up,0
+71,M,Non-Anginal Pain,144,221,0,Normal,108,,1.8,Flat,1
+74,M,Typical Angina,145,216,1,Normal,116,,1.8,Flat,1
+53,M,Non-Anginal Pain,155,175,1,ST,160,,0.3,Up,0
+58,M,Non-Anginal Pain,150,219,0,ST,118,,0,Flat,1
+75,M,Asymptomatic,160,310,1,Normal,112,,2,Down,0
+56,M,Non-Anginal Pain,137,208,1,ST,122,,1.8,Flat,1
+58,M,Non-Anginal Pain,137,232,0,ST,124,,1.4,Flat,1
+64,M,Asymptomatic,134,273,0,Normal,102,,4,Down,1
+54,M,Non-Anginal Pain,133,203,0,ST,137,,0.2,Up,0
+54,M,Atypical Angina,132,182,0,ST,141,,0.1,Up,0
+59,M,Asymptomatic,140,274,0,Normal,154,,2,Flat,0
+55,M,Asymptomatic,135,204,1,ST,126,,1.1,Flat,1
+57,M,Asymptomatic,144,270,1,ST,160,,2,Flat,1
+61,M,Asymptomatic,141,292,0,ST,115,,1.7,Flat,1
+41,M,Asymptomatic,150,171,0,Normal,128,,1.5,Flat,0
+71,M,Asymptomatic,130,221,0,ST,115,,0,Flat,1
+38,M,Asymptomatic,110,289,0,Normal,105,,1.5,Down,1
+55,M,Asymptomatic,158,217,0,Normal,110,,2.5,Flat,1
+56,M,Asymptomatic,128,223,0,ST,119,,2,Down,1
+69,M,Asymptomatic,140,110,1,Normal,109,,1.5,Flat,1
+64,M,Asymptomatic,150,193,0,ST,135,,0.5,Flat,1
+72,M,Asymptomatic,160,123,1,LVH,130,,1.5,Flat,1
+69,M,Asymptomatic,142,210,1,ST,112,,1.5,Flat,1
+56,M,Asymptomatic,137,282,1,Normal,126,,1.2,Flat,1
+62,M,Asymptomatic,139,170,0,ST,120,,3,Flat,1
+67,M,Asymptomatic,146,369,0,Normal,110,,1.9,Flat,1
+57,M,Asymptomatic,156,173,0,LVH,119,,3,Down,1
+69,M,Asymptomatic,145,289,1,ST,110,,1.8,Flat,1
+51,M,Asymptomatic,131,152,1,LVH,130,,1,Flat,1
+48,M,Asymptomatic,140,208,0,Normal,159,,1.5,Up,1
+69,M,Asymptomatic,122,216,1,LVH,84,,0,Flat,1
+69,M,Non-Anginal Pain,142,271,0,LVH,126,,0.3,Up,0
+64,M,Asymptomatic,141,244,1,ST,116,,1.5,Flat,1
+57,M,Atypical Angina,180,285,1,ST,120,,0.8,Flat,1
+53,M,Asymptomatic,124,243,0,Normal,122,,2,Flat,1
+37,M,Non-Anginal Pain,118,240,0,LVH,165,,1,Flat,0
+67,M,Asymptomatic,140,219,0,ST,122,,2,Flat,1
+74,M,Non-Anginal Pain,140,237,1,Normal,94,,0,Flat,1
+63,M,Atypical Angina,136,165,0,ST,133,,0.2,Up,0
+58,M,Asymptomatic,100,213,0,ST,110,,0,Up,0
+61,M,Asymptomatic,190,287,1,LVH,150,,2,Down,1
+64,M,Asymptomatic,130,258,1,LVH,130,,0,Flat,1
+58,M,Asymptomatic,160,256,1,LVH,113,,1,Up,1
+60,M,Asymptomatic,130,186,1,LVH,140,,0.5,Flat,1
+57,M,Asymptomatic,122,264,0,LVH,100,,0,Flat,1
+55,M,Non-Anginal Pain,133,185,0,ST,136,,0.2,Up,0
+55,M,Asymptomatic,120,226,0,LVH,127,,1.7,Down,1
+56,M,Asymptomatic,130,203,1,Normal,98,,1.5,Flat,1
+57,M,Asymptomatic,130,207,0,ST,96,,1,Flat,0
+61,M,Non-Anginal Pain,140,284,0,Normal,123,,1.3,Flat,1
+61,M,Non-Anginal Pain,120,337,0,Normal,98,,0,Flat,1
+74,M,Asymptomatic,155,310,0,Normal,112,,1.5,Down,1
+68,M,Non-Anginal Pain,134,254,1,Normal,151,,0,Up,0
+51,F,Asymptomatic,114,258,1,LVH,96,,1,Up,0
+62,M,Asymptomatic,160,254,1,ST,108,,3,Flat,1
+53,M,Asymptomatic,144,300,1,ST,128,,1.5,Flat,1
+62,M,Asymptomatic,158,170,0,ST,138,,0,Flat,1
+46,M,Asymptomatic,134,310,0,Normal,126,,0,Flat,1
+54,F,Asymptomatic,127,333,1,ST,154,,0,Flat,1
+62,M,Typical Angina,135,139,0,ST,137,,0.2,Up,0
+55,M,Asymptomatic,122,223,1,ST,100,,0,Flat,1
+58,M,Asymptomatic,140,385,1,LVH,135,,0.3,Up,0
+62,M,Atypical Angina,120,254,0,LVH,93,,0,Flat,1
+70,M,Asymptomatic,130,322,0,LVH,109,,2.4,Flat,1
+67,F,Non-Anginal Pain,115,564,0,LVH,160,,1.6,Flat,0
+57,M,Atypical Angina,124,261,0,Normal,141,,0.3,Up,1
+64,M,Asymptomatic,128,263,0,Normal,105,,0.2,Flat,0
+74,F,Atypical Angina,120,269,0,LVH,121,,0.2,Up,0
+65,M,Asymptomatic,120,177,0,Normal,140,,0.4,Up,0
+56,M,Non-Anginal Pain,130,256,1,LVH,142,,0.6,Flat,1
+59,M,Asymptomatic,110,239,0,LVH,142,,1.2,Flat,1
+60,M,Asymptomatic,140,293,0,LVH,170,,1.2,Flat,1
+63,F,Asymptomatic,150,407,0,LVH,154,,4,Flat,1
+59,M,Asymptomatic,135,234,0,Normal,161,,0.5,Flat,0
+53,M,Asymptomatic,142,226,0,LVH,111,,0,Up,0
+44,M,Non-Anginal Pain,140,235,0,LVH,180,,0,Up,0
+61,M,Typical Angina,134,234,0,Normal,145,,2.6,Flat,1
+57,F,Asymptomatic,128,303,0,LVH,159,,0,Up,0
+71,F,Asymptomatic,112,149,0,Normal,125,,1.6,Flat,0
+46,M,Asymptomatic,140,311,0,Normal,120,,1.8,Flat,1
+53,M,Asymptomatic,140,203,1,LVH,155,,3.1,Down,1
+64,M,Typical Angina,110,211,0,LVH,144,,1.8,Flat,0
+40,M,Typical Angina,140,199,0,Normal,178,,1.4,Up,0
+67,M,Asymptomatic,120,229,0,LVH,129,,2.6,Flat,1
+48,M,Atypical Angina,130,245,0,LVH,180,,0.2,Flat,0
+43,M,Asymptomatic,115,303,0,Normal,181,,1.2,Flat,0
+47,M,Asymptomatic,112,204,0,Normal,143,,0.1,Up,0
+54,F,Atypical Angina,132,288,1,LVH,159,,0,Up,0
+48,F,Non-Anginal Pain,130,275,0,Normal,139,,0.2,Up,0
+46,F,Asymptomatic,138,243,0,LVH,152,,0,Flat,0
+51,F,Non-Anginal Pain,120,295,0,LVH,157,,0.6,Up,0
+58,M,Non-Anginal Pain,112,230,0,LVH,165,,2.5,Flat,1
+71,F,Non-Anginal Pain,110,265,1,LVH,130,,0,Up,0
+57,M,Non-Anginal Pain,128,229,0,LVH,150,,0.4,Flat,1
+66,M,Asymptomatic,160,228,0,LVH,138,,2.3,Up,0
+37,F,Non-Anginal Pain,120,215,0,Normal,170,,0,Up,0
+59,M,Asymptomatic,170,326,0,LVH,140,,3.4,Down,1
+50,M,Asymptomatic,144,200,0,LVH,126,,0.9,Flat,1
+48,M,Asymptomatic,130,256,1,LVH,150,,0,Up,1
+61,M,Asymptomatic,140,207,0,LVH,138,,1.9,Up,1
+59,M,Typical Angina,160,273,0,LVH,125,,0,Up,1
+42,M,Non-Anginal Pain,130,180,0,Normal,150,,0,Up,0
+48,M,Asymptomatic,122,222,0,LVH,186,,0,Up,0
+40,M,Asymptomatic,152,223,0,Normal,181,,0,Up,1
+62,F,Asymptomatic,124,209,0,Normal,163,,0,Up,0
+44,M,Non-Anginal Pain,130,233,0,Normal,179,,0.4,Up,0
+46,M,Atypical Angina,101,197,1,Normal,156,,0,Up,0
+59,M,Non-Anginal Pain,126,218,1,Normal,134,,2.2,Flat,1
+58,M,Non-Anginal Pain,140,211,1,LVH,165,,0,Up,0
+49,M,Non-Anginal Pain,118,149,0,LVH,126,,0.8,Up,1
+44,M,Asymptomatic,110,197,0,LVH,177,,0,Up,1
+66,M,Atypical Angina,160,246,0,Normal,120,,0,Flat,1
+65,F,Asymptomatic,150,225,0,LVH,114,,1,Flat,1
+42,M,Asymptomatic,136,315,0,Normal,125,,1.8,Flat,1
+52,M,Atypical Angina,128,205,1,Normal,184,,0,Up,0
+65,F,Non-Anginal Pain,140,417,1,LVH,157,,0.8,Up,0
+63,F,Atypical Angina,140,195,0,Normal,179,,0,Up,0
+45,F,Atypical Angina,130,234,0,LVH,175,,0.6,Flat,0
+41,F,Atypical Angina,105,198,0,Normal,168,,0,Up,0
+61,M,Asymptomatic,138,166,0,LVH,125,,3.6,Flat,1
+60,F,Non-Anginal Pain,120,178,1,Normal,96,,0,Up,0
+59,F,Asymptomatic,174,249,0,Normal,143,,0,Flat,1
+62,M,Atypical Angina,120,281,0,LVH,103,,1.4,Flat,1
+57,M,Non-Anginal Pain,150,126,1,Normal,173,,0.2,Up,0
+51,F,Asymptomatic,130,305,0,Normal,142,,1.2,Flat,1
+44,M,Non-Anginal Pain,120,226,0,Normal,169,,0,Up,0
+60,F,Typical Angina,150,240,0,Normal,171,,0.9,Up,0
+63,M,Typical Angina,145,233,1,LVH,150,,2.3,Down,0
+57,M,Asymptomatic,150,276,0,LVH,112,,0.6,Flat,1
+51,M,Asymptomatic,140,261,0,LVH,186,,0,Up,0
+58,F,Atypical Angina,136,319,1,LVH,152,,0,Up,1
+44,F,Non-Anginal Pain,118,242,0,Normal,149,,0.3,Flat,0
+47,M,Non-Anginal Pain,108,243,0,Normal,152,,0,Up,1
+61,M,Asymptomatic,120,260,0,Normal,140,,3.6,Flat,1
+57,F,Asymptomatic,120,354,0,Normal,163,,0.6,Up,0
+70,M,Atypical Angina,156,245,0,LVH,143,,0,Up,0
+76,F,Non-Anginal Pain,140,197,0,ST,116,,1.1,Flat,0
+67,F,Asymptomatic,106,223,0,Normal,142,,0.3,Up,0
+45,M,Asymptomatic,142,309,0,LVH,147,,0,Flat,1
+45,M,Asymptomatic,104,208,0,LVH,148,,3,Flat,0
+39,F,Non-Anginal Pain,94,199,0,Normal,179,,0,Up,0
+42,F,Non-Anginal Pain,120,209,0,Normal,173,,0,Flat,0
+56,M,Atypical Angina,120,236,0,Normal,178,,0.8,Up,0
+58,M,Asymptomatic,146,218,0,Normal,105,,2,Flat,1
+35,M,Asymptomatic,120,198,0,Normal,130,,1.6,Flat,1
+58,M,Asymptomatic,150,270,0,LVH,111,,0.8,Up,1
+41,M,Non-Anginal Pain,130,214,0,LVH,168,,2,Flat,0
+57,M,Asymptomatic,110,201,0,Normal,126,,1.5,Flat,0
+42,M,Typical Angina,148,244,0,LVH,178,,0.8,Up,0
+62,M,Atypical Angina,128,208,1,LVH,140,,0,Up,0
+59,M,Typical Angina,178,270,0,LVH,145,,4.2,Down,0
+41,F,Atypical Angina,126,306,0,Normal,163,,0,Up,0
+50,M,Asymptomatic,150,243,0,LVH,128,,2.6,Flat,1
+59,M,Atypical Angina,140,221,0,Normal,164,,0,Up,0
+61,F,Asymptomatic,130,330,0,LVH,169,,0,Up,1
+54,M,Asymptomatic,124,266,0,LVH,109,,2.2,Flat,1
+54,M,Asymptomatic,110,206,0,LVH,108,,0,Flat,1
+52,M,Asymptomatic,125,212,0,Normal,168,,1,Up,1
+47,M,Asymptomatic,110,275,0,LVH,118,,1,Flat,1
+66,M,Asymptomatic,120,302,0,LVH,151,,0.4,Flat,0
+58,M,Asymptomatic,100,234,0,Normal,156,,0.1,Up,1
+64,F,Non-Anginal Pain,140,313,0,Normal,133,,0.2,Up,0
+50,F,Atypical Angina,120,244,0,Normal,162,,1.1,Up,0
+44,F,Non-Anginal Pain,108,141,0,Normal,175,,0.6,Flat,0
+67,M,Asymptomatic,120,237,0,Normal,71,,1,Flat,1
+49,F,Asymptomatic,130,269,0,Normal,163,,0,Up,0
+57,M,Asymptomatic,165,289,1,LVH,124,,1,Flat,1
+63,M,Asymptomatic,130,254,0,LVH,147,,1.4,Flat,1
+48,M,Asymptomatic,124,274,0,LVH,166,,0.5,Flat,1
+51,M,Non-Anginal Pain,100,222,0,Normal,143,,1.2,Flat,0
+60,F,Asymptomatic,150,258,0,LVH,157,,2.6,Flat,1
+59,M,Asymptomatic,140,177,0,Normal,162,,0,Up,1
+45,F,Atypical Angina,112,160,0,Normal,138,,0,Flat,0
+55,F,Asymptomatic,180,327,0,ST,117,,3.4,Flat,1
+41,M,Atypical Angina,110,235,0,Normal,153,,0,Up,0
+60,F,Asymptomatic,158,305,0,LVH,161,,0,Up,1
+54,F,Non-Anginal Pain,135,304,1,Normal,170,,0,Up,0
+42,M,Atypical Angina,120,295,0,Normal,162,,0,Up,0
+49,F,Atypical Angina,134,271,0,Normal,162,,0,Flat,0
+46,M,Asymptomatic,120,249,0,LVH,144,,0.8,Up,1
+56,F,Asymptomatic,200,288,1,LVH,133,,4,Down,1
+66,F,Typical Angina,150,226,0,Normal,114,,2.6,Down,0
+56,M,Asymptomatic,130,283,1,LVH,103,,1.6,Down,1
+49,M,Non-Anginal Pain,120,188,0,Normal,139,,2,Flat,1
+54,M,Asymptomatic,122,286,0,LVH,116,,3.2,Flat,1
+57,M,Asymptomatic,152,274,0,Normal,88,,1.2,Flat,1
+65,F,Non-Anginal Pain,160,360,0,LVH,151,,0.8,Up,0
+54,M,Non-Anginal Pain,125,273,0,LVH,152,,0.5,Down,0
+54,F,Non-Anginal Pain,160,201,0,Normal,163,,0,Up,0
+62,M,Asymptomatic,120,267,0,Normal,99,,1.8,Flat,1
+52,F,Non-Anginal Pain,136,196,0,LVH,169,,0.1,Flat,0
+52,M,Atypical Angina,134,201,0,Normal,158,,0.8,Up,0
+60,M,Asymptomatic,117,230,1,Normal,160,,1.4,Up,1
+63,F,Asymptomatic,108,269,0,Normal,169,,1.8,Flat,1
+66,M,Asymptomatic,112,212,0,LVH,132,,0.1,Up,1
+42,M,Asymptomatic,140,226,0,Normal,178,,0,Up,0
+64,M,Asymptomatic,120,246,0,LVH,96,,2.2,Down,1
+54,M,Non-Anginal Pain,150,232,0,LVH,165,,1.6,Up,0
+46,F,Non-Anginal Pain,142,177,0,LVH,160,,1.4,Down,0
+67,F,Non-Anginal Pain,152,277,0,Normal,172,,0,Up,0
+56,M,Asymptomatic,125,249,1,LVH,144,,1.2,Flat,1
+34,F,Atypical Angina,118,210,0,Normal,192,,0.7,Up,0
+57,M,Asymptomatic,132,207,0,Normal,168,,0,Up,0
+64,M,Asymptomatic,145,212,0,LVH,132,,2,Flat,1
+59,M,Asymptomatic,138,271,0,LVH,182,,0,Up,0
+50,M,Non-Anginal Pain,140,233,0,Normal,163,,0.6,Flat,1
+51,M,Typical Angina,125,213,0,LVH,125,,1.4,Up,0
+54,M,Atypical Angina,192,283,0,LVH,195,,0,Up,1
+53,M,Asymptomatic,123,282,0,Normal,95,,2,Flat,1
+52,M,Asymptomatic,112,230,0,Normal,160,,0,Up,1
+40,M,Asymptomatic,110,167,0,LVH,114,,2,Flat,1
+58,M,Non-Anginal Pain,132,224,0,LVH,173,,3.2,Up,1
+41,F,Non-Anginal Pain,112,268,0,LVH,172,,0,Up,0
+41,M,Non-Anginal Pain,112,250,0,Normal,179,,0,Up,0
+50,F,Non-Anginal Pain,120,219,0,Normal,158,,1.6,Flat,0
+54,F,Non-Anginal Pain,108,267,0,LVH,167,,0,Up,0
+64,F,Asymptomatic,130,303,0,Normal,122,,2,Flat,0
+51,F,Non-Anginal Pain,130,256,0,LVH,149,,0.5,Up,0
+46,F,Atypical Angina,105,204,0,Normal,172,,0,Up,0
+55,M,Asymptomatic,140,217,0,Normal,111,,5.6,Down,1
+45,M,Atypical Angina,128,308,0,LVH,170,,0,Up,0
+56,M,Typical Angina,120,193,0,LVH,162,,1.9,Flat,0
+66,F,Asymptomatic,178,228,1,Normal,165,,1,Flat,1
+38,M,Typical Angina,120,231,0,Normal,182,,3.8,Flat,1
+62,F,Asymptomatic,150,244,0,Normal,154,,1.4,Flat,1
+55,M,Atypical Angina,130,262,0,Normal,155,,0,Up,0
+58,M,Asymptomatic,128,259,0,LVH,130,,3,Flat,1
+43,M,Asymptomatic,110,211,0,Normal,161,,0,Up,0
+64,F,Asymptomatic,180,325,0,Normal,154,,0,Up,0
+50,F,Asymptomatic,110,254,0,LVH,159,,0,Up,0
+53,M,Non-Anginal Pain,130,197,1,LVH,152,,1.2,Down,0
+45,F,Asymptomatic,138,236,0,LVH,152,,0.2,Flat,0
+65,M,Typical Angina,138,282,1,LVH,174,,1.4,Flat,1
+69,M,Typical Angina,160,234,1,LVH,131,,0.1,Flat,0
+69,M,Non-Anginal Pain,140,254,0,LVH,146,,2,Flat,1
+67,M,Asymptomatic,100,299,0,LVH,125,,0.9,Flat,1
+68,F,Non-Anginal Pain,120,211,0,LVH,115,,1.5,Flat,0
+34,M,Typical Angina,118,182,0,LVH,174,,0,Up,0
+62,F,Asymptomatic,138,294,1,Normal,106,,1.9,Flat,1
+51,M,Asymptomatic,140,298,0,Normal,122,,4.2,Flat,1
+46,M,Non-Anginal Pain,150,231,0,Normal,147,,3.6,Flat,1
+67,M,Asymptomatic,125,254,1,Normal,163,,0.2,Flat,1
+50,M,Non-Anginal Pain,129,196,0,Normal,163,,0,Up,0
+42,M,Non-Anginal Pain,120,240,1,Normal,194,,0.8,Down,0
+56,F,Asymptomatic,134,409,0,LVH,150,,1.9,Flat,1
+41,M,Asymptomatic,110,172,0,LVH,158,,0,Up,1
+42,F,Asymptomatic,102,265,0,LVH,122,,0.6,Flat,0
+53,M,Non-Anginal Pain,130,246,1,LVH,173,,0,Up,0
+43,M,Non-Anginal Pain,130,315,0,Normal,162,,1.9,Up,0
+56,M,Asymptomatic,132,184,0,LVH,105,,2.1,Flat,1
+52,M,Asymptomatic,108,233,1,Normal,147,,0.1,Up,0
+62,F,Asymptomatic,140,394,0,LVH,157,,1.2,Flat,0
+70,M,Non-Anginal Pain,160,269,0,Normal,112,,2.9,Flat,1
+54,M,Asymptomatic,140,239,0,Normal,160,,1.2,Up,0
+70,M,Asymptomatic,145,174,0,Normal,125,,2.6,Down,1
+54,M,Atypical Angina,108,309,0,Normal,156,,0,Up,0
+35,M,Asymptomatic,126,282,0,LVH,156,,0,Up,1
+48,M,Non-Anginal Pain,124,255,1,Normal,175,,0,Up,0
+55,F,Atypical Angina,135,250,0,LVH,161,,1.4,Flat,0
+58,F,Asymptomatic,100,248,0,LVH,122,,1,Flat,0
+54,F,Non-Anginal Pain,110,214,0,Normal,158,,1.6,Flat,0
+69,F,Typical Angina,140,239,0,Normal,151,,1.8,Up,0
+77,M,Asymptomatic,125,304,0,LVH,162,,0,Up,1
+68,M,Non-Anginal Pain,118,277,0,Normal,151,,1,Up,0
+58,M,Asymptomatic,125,300,0,LVH,171,,0,Up,1
+60,M,Asymptomatic,125,258,0,LVH,141,,2.8,Flat,1
+51,M,Asymptomatic,140,299,0,Normal,173,,1.6,Up,1
+55,M,Asymptomatic,160,289,0,LVH,145,,0.8,Flat,1
+52,M,Typical Angina,152,298,1,Normal,178,,1.2,Flat,0
+60,F,Non-Anginal Pain,102,318,0,Normal,160,,0,Up,0
+58,M,Non-Anginal Pain,105,240,0,LVH,154,,0.6,Flat,0
+64,M,Non-Anginal Pain,125,309,0,Normal,131,,1.8,Flat,1
+37,M,Non-Anginal Pain,130,250,0,Normal,187,,3.5,Down,0
+59,M,Typical Angina,170,288,0,LVH,159,,0.2,Flat,1
+51,M,Non-Anginal Pain,125,245,1,LVH,166,,2.4,Flat,0
+43,F,Non-Anginal Pain,122,213,0,Normal,165,,0.2,Flat,0
+58,M,Asymptomatic,128,216,0,LVH,131,,2.2,Flat,1
+29,M,Atypical Angina,130,204,0,LVH,202,,0,Up,0
+41,F,Atypical Angina,130,204,0,LVH,172,,1.4,Up,0
+63,F,Non-Anginal Pain,135,252,0,LVH,172,,0,Up,0
+51,M,Non-Anginal Pain,94,227,0,Normal,154,,0,Up,0
+54,M,Non-Anginal Pain,120,258,0,LVH,147,,0.4,Flat,0
+44,M,Atypical Angina,120,220,0,Normal,170,,0,Up,0
+54,M,Asymptomatic,110,239,0,Normal,126,,2.8,Flat,1
+65,M,Asymptomatic,135,254,0,LVH,127,,2.8,Flat,1
+57,M,Non-Anginal Pain,150,168,0,Normal,174,,1.6,Up,0
+63,M,Asymptomatic,130,330,1,LVH,132,,1.8,Up,1
+35,F,Asymptomatic,138,183,0,Normal,182,,1.4,Up,0
+41,M,Atypical Angina,135,203,0,Normal,132,,0,Flat,0
+62,F,Non-Anginal Pain,130,263,0,Normal,97,,1.2,Flat,1
+43,F,Asymptomatic,132,341,1,LVH,136,,3,Flat,1
+58,F,Typical Angina,150,283,1,LVH,162,,1,Up,0
+52,M,Typical Angina,118,186,0,LVH,190,,0,Flat,0
+61,F,Asymptomatic,145,307,0,LVH,146,,1,Flat,1
+39,M,Asymptomatic,118,219,0,Normal,140,,1.2,Flat,1
+45,M,Asymptomatic,115,260,0,LVH,185,,0,Up,0
+52,M,Asymptomatic,128,255,0,Normal,161,,0,Up,1
+62,M,Non-Anginal Pain,130,231,0,Normal,146,,1.8,Flat,0
+62,F,Asymptomatic,160,164,0,LVH,145,,6.2,Down,1
+53,F,Asymptomatic,138,234,0,LVH,160,,0,Up,0
+43,M,Asymptomatic,120,177,0,LVH,120,,2.5,Flat,1
+47,M,Non-Anginal Pain,138,257,0,LVH,156,,0,Up,0
+52,M,Atypical Angina,120,325,0,Normal,172,,0.2,Up,0
+68,M,Non-Anginal Pain,180,274,1,LVH,150,,1.6,Flat,1
+39,M,Non-Anginal Pain,140,321,0,LVH,182,,0,Up,0
+53,F,Asymptomatic,130,264,0,LVH,143,,0.4,Flat,0
+62,F,Asymptomatic,140,268,0,LVH,160,,3.6,Down,1
+51,F,Non-Anginal Pain,140,308,0,LVH,142,,1.5,Up,0
+60,M,Asymptomatic,130,253,0,Normal,144,,1.4,Up,1
+65,M,Asymptomatic,110,248,0,LVH,158,,0.6,Up,1
+65,F,Non-Anginal Pain,155,269,0,Normal,148,,0.8,Up,0
+60,M,Non-Anginal Pain,140,185,0,LVH,155,,3,Flat,1
+60,M,Asymptomatic,145,282,0,LVH,142,,2.8,Flat,1
+54,M,Asymptomatic,120,188,0,Normal,113,,1.4,Flat,1
+44,M,Atypical Angina,130,219,0,LVH,188,,0,Up,0
+44,M,Asymptomatic,112,290,0,LVH,153,,0,Up,1
+51,M,Non-Anginal Pain,110,175,0,Normal,123,,0.6,Up,0
+59,M,Non-Anginal Pain,150,212,1,Normal,157,,1.6,Up,0
+71,F,Atypical Angina,160,302,0,Normal,162,,0.4,Up,0
+61,M,Non-Anginal Pain,150,243,1,Normal,137,,1,Flat,0
+55,M,Asymptomatic,132,353,0,Normal,132,,1.2,Flat,1
+64,M,Non-Anginal Pain,140,335,0,Normal,158,,0,Up,1
+43,M,Asymptomatic,150,247,0,Normal,171,,1.5,Up,0
+58,F,Non-Anginal Pain,120,340,0,Normal,172,,0,Up,0
+60,M,Asymptomatic,130,206,0,LVH,132,,2.4,Flat,1
+58,M,Atypical Angina,120,284,0,LVH,160,,1.8,Flat,1
+49,M,Atypical Angina,130,266,0,Normal,171,,0.6,Up,0
+48,M,Atypical Angina,110,229,0,Normal,168,,1,Down,1
+52,M,Non-Anginal Pain,172,199,1,Normal,162,,0.5,Up,0
+44,M,Atypical Angina,120,263,0,Normal,173,,0,Up,0
+56,F,Atypical Angina,140,294,0,LVH,153,,1.3,Flat,0
+57,M,Asymptomatic,140,192,0,Normal,148,,0.4,Flat,0
+67,M,Asymptomatic,160,286,0,LVH,108,,1.5,Flat,1
+53,F,Non-Anginal Pain,128,216,0,LVH,115,,0,Up,0
+52,M,Non-Anginal Pain,138,223,0,Normal,169,,0,Up,0
+43,M,Asymptomatic,132,247,1,LVH,143,,0.1,Flat,1
+52,M,Asymptomatic,128,204,1,Normal,156,,1,Flat,1
+59,M,Typical Angina,134,204,0,Normal,162,,0.8,Up,1
+64,M,Typical Angina,170,227,0,LVH,155,,0.6,Flat,0
+66,F,Non-Anginal Pain,146,278,0,LVH,152,,0,Flat,0
+39,F,Non-Anginal Pain,138,220,0,Normal,152,,0,Flat,0
+57,M,Atypical Angina,154,232,0,LVH,164,,0,Up,1
+58,F,Asymptomatic,130,197,0,Normal,131,,0.6,Flat,0
+57,M,Asymptomatic,110,335,0,Normal,143,,3,Flat,1
+47,M,Non-Anginal Pain,130,253,0,Normal,179,,0,Up,0
+55,F,Asymptomatic,128,205,0,ST,130,,2,Flat,1
+35,M,Atypical Angina,122,192,0,Normal,174,,0,Up,0
+61,M,Asymptomatic,148,203,0,Normal,161,,0,Up,1
+58,M,Asymptomatic,114,318,0,ST,140,,4.4,Down,1
+58,F,Asymptomatic,170,225,1,LVH,146,,2.8,Flat,1
+58,M,Atypical Angina,125,220,0,Normal,144,,0.4,Flat,0
+56,M,Atypical Angina,130,221,0,LVH,163,,0,Up,0
+56,M,Atypical Angina,120,240,0,Normal,169,,0,Down,0
+67,M,Non-Anginal Pain,152,212,0,LVH,150,,0.8,Flat,1
+55,F,Atypical Angina,132,342,0,Normal,166,,1.2,Up,0
+44,M,Asymptomatic,120,169,0,Normal,144,,2.8,Down,1
+63,M,Asymptomatic,140,187,0,LVH,144,,4,Up,1
+63,F,Asymptomatic,124,197,0,Normal,136,,0,Flat,1
+41,M,Atypical Angina,120,157,0,Normal,182,,0,Up,0
+59,M,Asymptomatic,164,176,1,LVH,90,,1,Flat,1
+57,F,Asymptomatic,140,241,0,Normal,123,,0.2,Flat,1
+45,M,Typical Angina,110,264,0,Normal,132,N,1.2,Flat,1
+68,M,Asymptomatic,144,193,1,Normal,141,N,3.4,Flat,1
+57,M,Asymptomatic,130,131,0,Normal,115,Y,1.2,Flat,1
+57,F,Atypical Angina,130,236,0,LVH,174,N,0,Flat,1
+38,M,Non-Anginal Pain,138,175,0,Normal,173,N,0,Up,0
